@@ -1,2 +1,3 @@
 # hello-world
-Übung GitHub KnpwHow
+Übung GitHub KnowHow
+Kleine Korrektur
